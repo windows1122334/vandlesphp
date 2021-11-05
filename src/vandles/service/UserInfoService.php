@@ -6,8 +6,7 @@
  * Email: <vandles@qq.com>
  **/
 
-
-namespace service;
+namespace vandles\service;
 
 
 use vandles\model\UserInfoModel;
