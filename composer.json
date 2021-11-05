@@ -1,0 +1,21 @@
+{
+    "name": "vandles/vandlesphp",
+    "description": "This is tool.It use at ThinkAdmin v6 only",
+    "type": "library",
+    "require": {
+        "php": ">=7.1"
+    },
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "vandles",
+            "email": "windows_1122334@126.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "vandles\\": "src/vandles"
+        }
+    }
+}
